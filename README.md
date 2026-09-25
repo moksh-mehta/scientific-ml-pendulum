@@ -1,5 +1,7 @@
 APMA 2070 final course project on the nonlinear pendulum: learning dynamical systems from data. 
 
+**[Read the paper (PDF)](Mehta_Final_Report.pdf)**
+
 Compares **FNN**, **SympNet**, and **PINN** approaches for parameter
 estimation and long-time trajectory prediction.
 
